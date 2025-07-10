@@ -1,5 +1,5 @@
 # Overview
-This repository is a sandbox for learning and experimenting with Model Context Protocol (MCP), specifically on macOS and using the openai-agents-python SDK.
+This repository is a sandbox for learning and experimenting with openai-agents-python SDK.
 
 
 # Requirements
@@ -26,6 +26,7 @@ export OPENAI_API_KEY=your-api-key-here
 Please see the readmes for the individual repositories.  
 Currently available repositories are:  
 - ./personality_chat_playground
+- ./guardrail_qa_bot
 
 # References
 - https://www.ai-souken.com/article/what-is-agents-sdk
@@ -35,6 +36,6 @@ Currently available repositories are:
 
 
 ---  
-2025年7月10日 更新
+2025年7月11日 更新
 
 
