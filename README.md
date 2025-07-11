@@ -27,6 +27,11 @@ Please see the readmes for the individual repositories.
 Currently available repositories are:  
 - ./personality_chat_playground
 - ./guardrail_qa_bot
+- ./triage_agent_routing
+- ./tool_selection_sandbox
+- ./calendar_event_extractor
+- 
+
 
 # References
 - https://www.ai-souken.com/article/what-is-agents-sdk
